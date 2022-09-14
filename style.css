@@ -1,6 +1,10 @@
-body {
-    text-align: center;
+
+body{
     background: #faedcd;
+}
+main {
+    text-align: center;
+    
 }
 #slogan {
  font-size: 25px;
@@ -9,4 +13,6 @@ body {
     width: 70%;
     height: 100%;
 }
-
+.beneficios {
+    background-color: #efd48f;
+}
