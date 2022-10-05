@@ -1,4 +1,3 @@
-
 body{
     background: #8d8c89;
 }
@@ -13,6 +12,22 @@ main {
     width: 70%;
     height: 100%;
 }
+.conteudo{
+    background-color: #8d8c89;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #0c0c08;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    margin-right: 400px;    
+}
+li{
+    padding: 10px;
+}
+
+
 .beneficios {
     background-color: #b1b1ad;
 }
