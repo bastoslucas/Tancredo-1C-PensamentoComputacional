@@ -7,6 +7,24 @@ body{
     margin-left: 18px;
     border-radius: 100%;
 }
+nav{
+    position: absolute;
+    top: 90px;
+    right: 65px;
+}
+nav a{
+    font-size: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+    color: aliceblue;
+}
+nav a:hover{
+    font-size: 31px;
+    font-weight: bold;
+    text-shadow:2px 3px 6px #ff9d00;
+    transition: 0.5s;
+}
 main {
     text-align: center;
     
